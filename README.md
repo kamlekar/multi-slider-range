@@ -11,4 +11,4 @@ This lib adds support for a range with multiple sliders in it. You might use thi
     </div>
 ```
 
-See [example.html](example.html) for an example.
+Check this [Demo](https://rawgit.com/hitsthings/multi-slider-range/master/example.html)
